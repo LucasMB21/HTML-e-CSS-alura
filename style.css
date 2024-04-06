@@ -13,3 +13,9 @@ body {
 .titulo-destaque {
     color: rgb(34, 212, 253);
 }
+.apresentacao {
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
