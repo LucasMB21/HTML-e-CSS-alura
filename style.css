@@ -57,7 +57,10 @@ body {
 
 .apresentacao__links__link {
    /* background-color: rgb(34, 212, 253); */
-   border: 2px solid #22d4fd;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    border: 2px solid #22d4fd;
     width: 378px;
     text-align: center;
     border-radius: 8px;
