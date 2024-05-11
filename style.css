@@ -49,15 +49,22 @@ body {
     gap: 32px;
 }
 
+.apresentacao__links__subtitulo {
+    font-family: 'Krona One', 'sans-serif';
+    font-weight: 400;
+    font-size: ;
+}
+
 .apresentacao__links__link {
-    background-color: rgb(34, 212, 253);
-    width: 280px;
+   /* background-color: rgb(34, 212, 253); */
+   border: 2px solid #22d4fd;
+    width: 378px;
     text-align: center;
-    border-radius: 16px;
+    border-radius: 8px;
     font-size: 24px;
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: #f6f6f6;
     font-family: 'Montserrat', sans-serif;
 }
